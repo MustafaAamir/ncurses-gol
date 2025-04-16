@@ -2,5 +2,4 @@
 
 Uses seed words to generate random grids from SHA-256 hash.
 
-https://github.com/user-attachments/assets/c7a2f165-6360-49dc-82ba-4dd34ca0d4ae
-
+![demo](https://github.com/user-attachments/assets/153f5f23-e88c-42b0-8e38-ba6b76fb32c7)
